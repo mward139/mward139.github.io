@@ -16,7 +16,4 @@ My goals for the Semester: [^1]
 - [x] Study lots
 - [x] Have fun!
 
-> [!NOTE]
-> We're in the endgame now!
-
 [^1]: So far, so good!
